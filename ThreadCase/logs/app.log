@@ -1,0 +1,31 @@
+2016-09-20 16:52:22,221 INFO ***Main Class*** - [main] Test
+2016-09-20 16:52:22,223 INFO ***Thread Control*** - [main] Iniciada Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Thread[main,5,main]
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [Thread-2] Hello from a Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Iniciada Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Thread[main,5,main]
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Iniciada Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [Thread-3] Hello from a Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Thread[main,5,main]
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [Thread-4] Hello from a Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Iniciada Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Thread[main,5,main]
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [Thread-5] Hello from a Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Iniciada Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Thread[main,5,main]
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [Thread-6] Hello from a Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Iniciada Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Thread[main,5,]
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [Thread-7] Hello from a Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Iniciada Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Thread[main,5,]
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [Thread-8] Hello from a Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Iniciada Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Thread[main,5,]
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [Thread-9] Hello from a Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Iniciada Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Thread[main,5,]
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [Thread-10] Hello from a Thread
+2016-09-20 16:52:22,224 INFO ***Thread Control*** - [main] Iniciada Thread
+2016-09-20 16:52:22,225 INFO ***Thread Control*** - [main] Thread[main,5,]
+2016-09-20 16:52:22,225 INFO ***Thread Control*** - [Thread-11] Hello from a Thread
